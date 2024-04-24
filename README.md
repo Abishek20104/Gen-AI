@@ -1,4 +1,4 @@
-# Multilingual Text Translation
+# Multilingual Text Translation Using MarianMT Model
 The project incorporates the MarianMTModel from the Transformers library, a state-of-the art model designed for machine translation tasks. 
 This model utilizes an encoder-decoderarchitecture with attention mechanisms to generate accurate translations between different languages.
 The code follows a series of steps to facilitate text translation. It begins by prompting the user to input the source language, target language, and the text to be translated. 
